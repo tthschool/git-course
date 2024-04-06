@@ -1,2 +1,1 @@
-get the user data
 line 2
